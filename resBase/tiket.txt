@@ -1,0 +1,15 @@
+Tiket
+id: 23
+ service Name: Typograf
+ problem Description: не встовляет в окошки
+ isActive: true
+ customerID: 21
+ support SpecialistID: 8
+Customer
+id: 21
+userName: svetlana
+passWord: 987678
+SupportSpecialist
+id: 8
+ userName: servisnik
+ password:7897
